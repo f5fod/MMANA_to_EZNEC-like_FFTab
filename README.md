@@ -10,7 +10,7 @@ MMANA-GAL version 3.5.3.82, for instance.<br>
 File / Table of Angle/Gain(*.csv)<br>
 `         Start deg.   Step deg.   Num. of steps`<br>
 `Azimuth  0.0          1.0         361          `<br>
-` Zenith  0.0          1.0         181          `<br>
+`Zenith   0.0          1.0         181          `<br>
 
 ### The conversion program
 `src/` : QB64 source code `MMANA_FFTab/MMANA_FFTab_V1-8.bas`<br>
