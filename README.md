@@ -13,14 +13,14 @@ File / Table of Angle/Gain(*.csv)<br>
 `Zenith   0.0          1.0         181          `<br>
 
 ### The conversion program
-`src/` : QB64 source code `MMANA_FFTab/MMANA_FFTab_V1-8.bas`<br>
+`src/` : QB64 source code `                              MMANA_FFTab/MMANA_FFTab_V1-8.bas`<br>
 `bin/` : Compiled with QB64 32 bits, Windows executable `MMANA_FFTab/MMANA_FFTab_V1-8.exe`
 
 Download this executable and run it.<br>
 It will ask you the input MMANA FF csv file name (*myantenna.csv*) and the name you want to give to the output EZNEC-like FFTab file (*myantenna_FFTab.txt*).
 
 ### The verify program
-`src/` : QB64 source code `VERIFY_V1-7.bas`<br>
+`src/` : QB64 source code `                              VERIFY_V1-7.bas`<br>
 `bin/` : Compiled with QB64 32 bits, Windows executable `VERIFY_V1-7.exe`
 
 Download this executable and run it.<br>
