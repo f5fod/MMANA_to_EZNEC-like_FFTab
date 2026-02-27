@@ -12,7 +12,7 @@ File/Table of Angle/Gain(*.csv)<br>
 `Azimuth  0.0          1.0         361`<br>
 ` Zenith  0.0          1.0         181`<br>
 
-### The convertion program
+### The conversion program
 `src/` : QB64 source code `MMANA_FFTab/MMANA_FFTab_V1-8.bas`<br>
 `bin/` : Compiled with QB64 32 bits, Windows executable `MMANA_FFTab/MMANA_FFTab_V1-8.exe`
 
