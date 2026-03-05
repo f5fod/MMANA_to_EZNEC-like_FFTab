@@ -42,7 +42,7 @@ If you need to recompile the source file, prefer QB64 **32 bits** as QB64 64 bit
 #### MMANA_FFTab
 Version 1.8  
 👉 https://github.com/f5fod/MMANA_to_EZNEC-like_FFTab/releases/tag/mmana_FFTab-v1.8
-<br>
+<br><br>
 
 #### VERIFY
 Version 1.7  
