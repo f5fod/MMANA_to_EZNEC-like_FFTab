@@ -47,6 +47,7 @@ Version 1.8
 #### VERIFY
 Version 1.7  
 👉 https://github.com/f5fod/MMANA_to_EZNEC-like_FFTab/releases/tag/verify-v1.7
+<br><br>
 
 ### Author
 F5FOD
