@@ -37,13 +37,13 @@ As usual, the .bas sources are fully documented, included the file formats (MMAN
 
 If you need to recompile the source file, prefer QB64 **32 bits** as QB64 64 bits will give you smaller characters in the Console.
 
-## Downloads via the Releases
+### Downloads via the Releases
 
-### MMANA_FFTab
+#### MMANA_FFTab
 Version 1.8  
 👉 https://github.com/f5fod/MMANA_to_EZNEC-like_FFTab/releases/tag/mmana_FFTab-v1.8
 
-### VERIFY
+#### VERIFY
 Version 1.7  
 👉 https://github.com/f5fod/MMANA_to_EZNEC-like_FFTab/releases/tag/verify-v1.7
 
